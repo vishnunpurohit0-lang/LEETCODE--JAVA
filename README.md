@@ -20,6 +20,7 @@
 | [0014-longest-common-prefix](https://github.com/vishnunpurohit0-lang/LEETCODE--JAVA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vishnunpurohit0-lang/LEETCODE--JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishnunpurohit0-lang/LEETCODE--JAVA/tree/master/0016-3sum-closest) |
+| [0704-binary-search](https://github.com/vishnunpurohit0-lang/LEETCODE--JAVA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnunpurohit0-lang/LEETCODE--JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/vishnunpurohit0-lang/LEETCODE--JAVA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
